@@ -1,0 +1,56 @@
+[
+  {
+    "nome": "Bloco Alegria",
+    "cidade": "Salvador",
+    "imagem": "/assets/unsplash_b2jkMC95a_8 (1).png",
+    "descricao": "O bloco mais animado da Bahia!"
+  },
+  {
+    "nome": "Bloco Curtição",
+    "cidade": "São Paulo",
+    "imagem": "/assets/unsplash_b2jkMC95a_8 (2).png",
+    "descricao": "Vibe eletrônica e muita energia."
+  },
+  {
+    "nome": "Bloco do Samba",
+    "cidade": "Rio de Janeiro",
+    "imagem": "/assets/unsplash_b2jkMC95a_8 (3).png",
+    "descricao": "Samba no pé e alegria no coração."
+  },
+  {
+    "nome": "Bloco da Folia",
+    "cidade": "Belo Horizonte",
+    "imagem": "/assets/unsplash_b2jkMC95a_8 (4).png",
+    "descricao": "O carnaval raiz de BH!"
+  },
+  {
+    "nome": "Bloco Tropical",
+    "cidade": "Recife",
+    "imagem": "/assets/unsplash_b2jkMC95a_8 (5).png",
+    "descricao": "Sol, praia e muita festa!"
+  },
+  {
+    "nome": "Bloco do Sol",
+    "cidade": "Fortaleza",
+    "imagem": "/assets/unsplash_b2jkMC95a_8 (6).png",
+    "descricao": "Animação de dia e de noite!"
+  },
+  {
+    "nome": "Bloco da Praça",
+    "cidade": "Brasília",
+    "imagem": "/assets/unsplash_b2jkMC95a_8 (7).png",
+    "descricao": "Música ao vivo e multidão!"
+  },
+  {
+    "nome": "Bloco da Liberdade",
+    "cidade": "Curitiba",
+    "imagem": "/assets/unsplash_b2jkMC95a_8 (8).png",
+    "descricao": "Celebra a diversidade e inclusão."
+  },
+  {
+    "nome": "Bloco Encanto",
+    "cidade": "Manaus",
+    "imagem": "/assets/unsplash_b2jkMC95a_8.png",
+    "descricao": "Festa mágica no coração da floresta."
+  }
+]

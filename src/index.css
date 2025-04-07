@@ -1,0 +1,51 @@
+/* src/index.css */
+
+/* Reset básico */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Tipografia base */
+body {
+  font-family: "Inter", sans-serif;
+  background-color: #f9f6fe;
+  color: #121214;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Elementos padrão */
+input,
+button,
+select {
+  font-family: inherit;
+  font-size: 1rem;
+  outline: none;
+  border: none;
+}
+
+button {
+  cursor: pointer;
+}
+
+/* Responsividade */
+img {
+  max-width: 100%;
+  display: block;
+}
+
+/* Utilitários de cor */
+.bg-primary {
+  background-color: #6246ea;
+}
+.text-primary {
+  color: #6246ea;
+}
+.bg-danger {
+  background-color: #e45858;
+}
+.text-danger {
+  color: #e45858;
+}
