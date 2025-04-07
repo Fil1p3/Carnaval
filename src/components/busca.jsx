@@ -1,4 +1,4 @@
-// src/components/Busca.jsx
+
 import imagemHero from "/assets/hero.png";
 
 export default function Busca({
