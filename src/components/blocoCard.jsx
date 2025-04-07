@@ -1,4 +1,4 @@
-// src/components/BlocoCard.jsx
+
 import { MapPin } from "lucide-react";
 
 export default function BlocoCard({ nome, cidade, imagem, descricao }) {
