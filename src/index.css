@@ -1,13 +1,10 @@
-/* src/index.css */
 
-/* Reset básico */
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
 }
 
-/* Tipografia base */
 body {
   font-family: "Inter", sans-serif;
   background-color: #f9f6fe;
@@ -16,7 +13,7 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
-/* Elementos padrão */
+
 input,
 button,
 select {
@@ -30,13 +27,13 @@ button {
   cursor: pointer;
 }
 
-/* Responsividade */
+
 img {
   max-width: 100%;
   display: block;
 }
 
-/* Utilitários de cor */
+
 .bg-primary {
   background-color: #6246ea;
 }
