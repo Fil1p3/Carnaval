@@ -1,4 +1,4 @@
-// src/components/ListaDeBlocos.jsx
+
 import blocoCard from "./blocoCard";
 
 export default function blocoList({ blocos }) {
