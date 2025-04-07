@@ -1,4 +1,4 @@
-// src/App.jsx
+
 import { useEffect, useState } from "react";
 import Busca from "./components/Busca.jsx";
 import ListaDeBlocos from "./components/ListaDeBlocos.jsx";
